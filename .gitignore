@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# File temporanei di Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints di Jupyter
+.ipynb_checkpoints/
+
+# Cartelle di dati (se troppo grandi)
+data/raw/
+data/interim/
+data/clean/
