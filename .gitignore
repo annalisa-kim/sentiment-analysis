@@ -15,3 +15,8 @@ data/clean/
 
 # Keep sample data in repo
 !data/sample/**
+# macOS junk
+.DS_Store
+data/.DS_Store
+# model artifacts
+models/
