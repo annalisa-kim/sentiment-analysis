@@ -12,3 +12,6 @@ __pycache__/
 data/raw/
 data/interim/
 data/clean/
+
+# Keep sample data in repo
+!data/sample/**
